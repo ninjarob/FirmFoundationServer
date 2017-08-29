@@ -1,4 +1,4 @@
-package com.koolkevans.firmfoundations.services;
+package com.koolkevans.firmfoundations.controllers;
 
 
 @RestController
